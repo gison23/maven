@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-16T00:48:28 IST" name="Default suite" finished-at="2022-12-16T00:48:38 IST" duration-ms="9988">
+    <groups>
+    </groups>
+    <test started-at="2022-12-16T00:48:28 IST" name="Default test" finished-at="2022-12-16T00:48:38 IST" duration-ms="9988">
+      <class name="com.ictk.scripts.TestClass">
+        <test-method is-config="true" signature="initialization()[pri:0, instance:com.ictk.scripts.TestClass@55b699ef]" started-at="2022-12-16T00:48:19 IST" name="initialization" finished-at="2022-12-16T00:48:28 IST" duration-ms="9579" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method signature="ValidLoginVerification()[pri:0, instance:com.ictk.scripts.TestClass@55b699ef]" started-at="2022-12-16T00:48:28 IST" name="ValidLoginVerification" finished-at="2022-12-16T00:48:31 IST" duration-ms="2978" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidLoginVerification -->
+        <test-method signature="ValidHomeVerification()[pri:1, instance:com.ictk.scripts.TestClass@55b699ef]" started-at="2022-12-16T00:48:31 IST" name="ValidHomeVerification" finished-at="2022-12-16T00:48:33 IST" duration-ms="1674" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidHomeVerification -->
+        <test-method signature="ValidAddEmpVerification()[pri:2, instance:com.ictk.scripts.TestClass@55b699ef]" started-at="2022-12-16T00:48:33 IST" name="ValidAddEmpVerification" finished-at="2022-12-16T00:48:37 IST" duration-ms="3692" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidAddEmpVerification -->
+        <test-method signature="logout()[pri:3, instance:com.ictk.scripts.TestClass@55b699ef]" started-at="2022-12-16T00:48:37 IST" name="logout" finished-at="2022-12-16T00:48:38 IST" duration-ms="1504" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+      </class> <!-- com.ictk.scripts.TestClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
